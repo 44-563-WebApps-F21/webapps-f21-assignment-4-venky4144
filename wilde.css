@@ -6,7 +6,7 @@
 }
 .stagedirection
 {
-    background-color: lightgreen;
+    background-color: yellowgreen;
     font-family: cursive;
     color : black;
 }
@@ -19,13 +19,13 @@
 {
     font-style: italic;
     font-family: sans-serif;
-    color :black;
+    color :olivedrab;
 }
 .BASILDON
 {
     font-style: initial;
     font-family: serif;
-    color :rgb(126, 110, 110);
+    color :rgb(141, 68, 68);
 }
 .MASON
 {
@@ -55,7 +55,7 @@ table, th, td {
 	border: 1px yellowgreen solid;
     width: 100px;
     text-align: center;
-    padding: 4px;
+    padding: 20px;
     margin: 35px;
     color : black;
 }
