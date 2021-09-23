@@ -53,9 +53,9 @@
 }
 table, th, td {
 	border: 1px yellowgreen solid;
-    width: 40px;
+    width: 100px;
     text-align: center;
-    padding: 2px;
+    padding: 4px;
     margin: 35px;
     color : black;
 }
