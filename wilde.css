@@ -53,10 +53,10 @@
 }
 table, th, td {
 	border: 1px yellowgreen solid;
-    width: 25px;
+    width: 40px;
     text-align: center;
     padding: 2px;
-    margin: 25px;
+    margin: 35px;
     color : black;
 }
 th{
