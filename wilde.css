@@ -1,0 +1,121 @@
+.speech
+{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+}
+.stagedirection
+{
+    background-color: lightgreen;
+    font-family: cursive;
+    color : black;
+}
+.stagedirection:hover 
+{
+    background-color: black;
+    color : red ;
+}
+.MARCHMONT
+{
+    font-style: italic;
+    font-family: sans-serif;
+    color :black;
+}
+.BASILDON
+{
+    font-style: initial;
+    font-family: serif;
+    color :rgb(126, 110, 110);
+}
+.MASON
+{
+    font-style: inherit;
+    font-family: fantasy;
+    color : violet;
+}
+.CAVERSHAM
+{
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color : brown;
+}
+.LADYCHILTERN
+{
+    font-style: initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color :hotpink;
+}
+.MABELCHILTERN
+{
+    font-style: inherit;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color : darkmagenta;
+}
+table, th, td {
+	border: 1px black solid;
+    width: 25px;
+    text-align: center;
+    padding: 2px;
+    margin: 25px;
+    color : black;
+}
+th{
+    height: 30px;
+}
+tr:hover{
+    background-color: blue;
+    color: brown;
+}
+tr:nth-child(even) {
+    background-color: blueviolet;
+  }
+.MARCHMONT:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 1px solid;
+}
+.BASILDON:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 2px solid;
+}
+.MASON:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 3px solid;
+}
+.CAVERSHAM:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 1px solid;
+}
+.LADYCHILTERN:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 2px solid;
+}
+.MABELCHILTERN:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 3px solid;
+}
+ul {
+    overflow: hidden;
+    background-color: blueviolet;
+    }
+    
+    li {
+    float: left;
+    }
+    
+    li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 12px 12px;
+    }
+    
+    li a:hover {
+    background-color:black;
+    }
+.icon
+ {
+    display: block;
+    display: flex;
+    background-color: white;
+    align-items: center;
+}
